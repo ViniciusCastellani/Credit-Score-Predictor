@@ -2,10 +2,6 @@
 
 This project involves predicting credit scores using Python, with pandas, numpy, scikit-learn, and LabelEncoder libraries. The main objective is to analyze customer data, and create a model that can predict the credit score of a customer based on various factors.
 
-## Example Output
-
-The output of the model will be a prediction of the credit score of a customer based on the input features.
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
